@@ -8,14 +8,14 @@ An entry in make.fun's [ai-judge-rich-01](https://make.fun/c/ai-judge-rich-01) b
 the plan an AI agent would follow to turn $100, a computer with internet access and 30 days into
 the most money, with no human doing the work.
 
-The plan is [plan.txt](plan.txt). It is 992 characters of UTF-8 and it is written to
+The plan is [plan.txt](plan.txt). It is 982 characters of UTF-8 and it is written to
 `/output/entry.txt`, unchanged, by [main.py](main.py).
 
 ## The plan in one line
 
-Build a factory that writes contest entries, not a single entry: rank escrowed contests by pot
-per paid place, pay the $1 account fee once, and spend the ten entries that fee buys, each argued
-to a different criterion, while $90 of the $100 never moves.
+Build a factory that writes contest entries, not a single entry; enter only contests that escrow
+the prize and pay at least $10 a place; spend the ten entries one $1 fee buys as ten draws at one
+place, because one place per entrant is the rule; and leave $94 of the $100 untouched.
 
 ## Run it
 
@@ -40,7 +40,7 @@ and no network. `-P` keeps `/bot` off `sys.path`, which is why the plan is locat
 Two consecutive runs write the same bytes:
 
 ```
-sha256 e3e0d787107e259eaf4e36e01d037f76994a1bfeb71415108b95f343df4a9cf1
+sha256 797830846ec0180ef8ff40e8bebbc68ad643b153f08526e3fe948f24f41ded45
 ```
 
 ## Why this plan and not the obvious ones

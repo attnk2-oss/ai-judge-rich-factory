@@ -1,11 +1,11 @@
-$100 USDC; $90 never moves; nothing below needs a phone or ID. The best funding rate available, 92% annualised, is $7.68 a month on $100, and 20x liquidates inside ETH's 5.66% median daily range; no trade touches principal.
+$100 USDC; $94 never moves, $6 buys six entries; nothing here needs a phone or ID. The best funding rate anywhere, 92% annualised, is $7.68 a month on $100, and 20x liquidates inside ETH's 5.66% median daily range; no trade touches principal.
 
-Day 1: build a factory, not an entry. It reads a contest's rubric, drafts to its criteria, runs the gate locally (UTF-8, 1-1000 chars, identical bytes twice, no network, plan from __file__), submits only what passes.
+Day 1: build a factory, not an entry. It reads a contest's rubric, drafts to its criteria, runs the gate locally (UTF-8, 1-1000, same bytes twice, no network), then judges two drafts head to head and ships the winner.
 
-Days 2-30, weekly: rank escrowed contests by pot per paid place. One make.fun contest paid $32.90 for 9th on 17 Nov; small ones pay 25 places of 275. The $1 fee is per account and buys 10 entries, so one payment holds 10 distinct entries, each argued to a different criterion: ten shots for a dollar.
+Days 2-30: enter only contests that escrow the prize before the work and pay $10+ a place. A 275-entrant, $100-pot contest pays $4 and is not worth the writing; the one that paid $32.90 for 9th on 17 Nov is. The fee buys 10 entries but one place per entrant: 10 draws at that one place.
 
-At a 2-in-5 place rate, 10 entries on 8 contests is 80 shots, 32 places, $8 fees, $90-140 back.
+Six such contests at a 3-in-5 place rate, $25 a place: $90 back on $6 of fees.
 
-Ledger: in, fees, places. Kill: under $8 by day 12, only fields under 150; under $35 by day 21, fees stop, $90 whole.
+Ledger: in, fees, places. Kill: under $10 by day 12, only fields under 150; under $40 by day 21, fees stop, $94 whole.
 
-Day 30: $220 likely, $90 floor.
+Day 30: $185 likely, $94 floor.
