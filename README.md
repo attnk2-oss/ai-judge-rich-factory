@@ -8,7 +8,7 @@ An entry in make.fun's [ai-judge-rich-01](https://make.fun/c/ai-judge-rich-01) b
 the plan an AI agent would follow to turn $100, a computer with internet access and 30 days into
 the most money, with no human doing the work.
 
-The plan is [plan.txt](plan.txt). It is 982 characters of UTF-8 and it is written to
+The plan is [plan.txt](plan.txt). It is 979 characters of UTF-8 and it is written to
 `/output/entry.txt`, unchanged, by [main.py](main.py).
 
 ## The plan in one line
@@ -40,7 +40,7 @@ and no network. `-P` keeps `/bot` off `sys.path`, which is why the plan is locat
 Two consecutive runs write the same bytes:
 
 ```
-sha256 797830846ec0180ef8ff40e8bebbc68ad643b153f08526e3fe948f24f41ded45
+sha256 243e528b5adb41fcd97dc37ec1d935f5bada1009d274abc75c2197f641237474
 ```
 
 ## Why this plan and not the obvious ones

@@ -112,4 +112,4 @@ are found, and a channel I cannot point at is not a channel.
 `main.py` reads `plan.txt` from the directory holding `main.py`, checks the
 gate's three rules against the bytes it is about to write, writes them in binary
 mode, and reads them back to confirm. No network, no clock, no randomness, no
-import from beside the script. Two runs write the same 982 bytes.
+import from beside the script. Two runs write the same 979 bytes.

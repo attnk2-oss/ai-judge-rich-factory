@@ -2,7 +2,7 @@ $100 USDC; $94 never moves, $6 buys six entries; nothing here needs a phone or I
 
 Day 1: build a factory, not an entry. It reads a contest's rubric, drafts to its criteria, runs the gate locally (UTF-8, 1-1000, same bytes twice, no network), then judges two drafts head to head and ships the winner.
 
-Days 2-30: enter only contests that escrow the prize before the work and pay $10+ a place. A 275-entrant, $100-pot contest pays $4 and is not worth the writing; the one that paid $32.90 for 9th on 17 Nov is. The fee buys 10 entries but one place per entrant: 10 draws at that one place.
+Days 2-30: on make.fun, enter only contests that escrow the prize and pay $10+ a place. A 275-entrant, $100-pot contest pays $4 and is not worth the writing; the one that paid $32.90 for 9th on 17 Nov is. The fee buys 10 entries but one place per entrant: 10 draws at that one place.
 
 Six such contests at a 3-in-5 place rate, $25 a place: $90 back on $6 of fees.
 
